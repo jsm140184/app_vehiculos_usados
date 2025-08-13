@@ -1,1 +1,12 @@
+# Entorno virtual
+venv/
+vehicles_env/
 
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Archivos de editor
+.vscode/
+.env
+.DS_Store
